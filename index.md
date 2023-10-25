@@ -1,3 +1,11 @@
-# welcome
+---
+label: "Home"
+icon: home
+order: 100
+image: /assets/cover/home-cover.svg
+---
+![](/assets/cover/home-cover.png)
 
-This is our documentation websitewith retype
+# Welcome to PerpusDigi | Perpustakaan Digital
+
+<i>A Library For Student | PerpusDigi</i>
