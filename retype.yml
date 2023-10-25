@@ -4,6 +4,10 @@ url: https://iqbalramdhan.github.io/PerpusDigi/
 image: /assets/cover/home-cover.svg
 favicon: /assets/icons/favicon.svg
 
+branding:
+  logo: /assets/icons/logo.svg
+  logoDark: /assets/icons/logo-dark.svg
+
 meta:
   title: " - PerpusDigi | Perpustakaan Digital"
   
