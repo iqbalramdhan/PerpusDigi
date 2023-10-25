@@ -4,7 +4,7 @@ icon: home
 order: 100
 image: /assets/cover/home-cover.svg
 ---
-![](/assets/cover/home-cover.png)
+![](/assets/cover/home-cover.svg)
 
 # Welcome to PerpusDigi | Perpustakaan Digital
 
