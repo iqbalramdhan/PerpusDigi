@@ -5,8 +5,8 @@ image: /assets/cover/home-cover.svg
 favicon: /assets/icons/favicon.svg
 
 branding:
-  logo: /assets/icons/logo.svg
-  logoDark: /assets/icons/logo-dark.svg
+  title: PerpusDigi
+  label: Library
 
 meta:
   title: " - PerpusDigi | Perpustakaan Digital"
