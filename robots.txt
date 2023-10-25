@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://iqbalramdhan.github.io/perpustakaan-digital/sitemap.xml.gz
+Sitemap: https://iqbalramdhan.github.io/PerpusDigi/sitemap.xml.gz
