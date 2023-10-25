@@ -1,11 +1,19 @@
 input: .
 output: .retype
 url: https://iqbalramdhan.github.io/PerpusDigi/
-branding:
-  title: Project Name
-  label: Docs
-links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+image: /assets/cover/home-cover.svg
+favicon: /assets/icons/favicon.svg
+
+meta:
+  title: " - PerpusDigi | Perpustakaan Digital"
+  
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; {{ year }} by PerpusDigi. MIT."
+  links:
+    - text: GitHub Repo
+      link: https://github.com/iqbalramdhan/PerpusDigi
+      icon: repo
+
+    - text: Report Issue
+      link: https://github.com/iqbalramdhan/PerpusDigi/issues
+      icon: report
