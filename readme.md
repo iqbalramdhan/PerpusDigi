@@ -10,3 +10,4 @@ https://iqbalramdhan.github.io/PerpusDigi/
 
 ## Credits
 [Muhamad Iqbal Ramadhan](https://github.com/iqbalramdhan)
+[Ahmad Rizal](https://github.com/AhmadRizalNP)
