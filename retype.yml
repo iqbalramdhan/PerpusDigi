@@ -2,14 +2,20 @@ input: .
 output: .retype
 url: https://iqbalramdhan.github.io/PerpusDigi/
 image: /assets/cover/home-cover.svg
-favicon: /assets/icons/favicon.svg
+favicon: /assets/icons/library-icon.png
 
 branding:
-  title: PerpusDigi
-  label: Library
+  logo: /assets/logo/branding.svg
+  logoDark: /assets/logo/branding-dark.svg
 
 meta:
   title: " - PerpusDigi | Perpustakaan Digital"
+
+links:
+- text: Instagram
+  link: https://instagram.com/perpusdigi_
+  icon: /assets/icons/instagram.svg
+  target: blank
   
 footer:
   copyright: "&copy; {{ year }} by PerpusDigi. MIT."

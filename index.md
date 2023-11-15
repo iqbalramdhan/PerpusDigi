@@ -9,3 +9,9 @@ image: /assets/cover/home-cover.svg
 # Welcome to PerpusDigi | Perpustakaan Digital
 
 <i>A Library For Student | PerpusDigi</i>
+
+---
+
+### ReVanced Extended Features
+- [Story Book](library/story/story.md)
+- [Study Book](library/study/study.md)

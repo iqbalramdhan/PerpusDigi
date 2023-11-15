@@ -1,10 +1,8 @@
 ---
-label: "Story"
+label: "Story Book"
 order: 99
-icon: "/assets/icons/favicon.svg"
+icon: "/assets/icons/library-icon.png"
 ---
-
-![](/assets/cover/home-cover.svg)
 
 # Story
 
